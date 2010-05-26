@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESProjectIconConfiguration</key>
+	<dict>
+		<key>GlyphIdentifier</key>
+		<string>conversation</string>
+	</dict>
+	<key>ESProjectShowHiddenFilesKey</key>
+	<false/>
+	<key>ESProjectWindowState</key>
+	<dict>
+		<key>ContentSize</key>
+		<string>{1440, 813}</string>
+		<key>ProjectURL</key>
+		<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/openplayer.esproj/</string>
+		<key>StateType</key>
+		<string>ProjectWindow</string>
+		<key>TopLeftPoint</key>
+		<string>{0, 878}</string>
+	</dict>
+	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.FileManager.FileControllerState</key>
+	<dict>
+		<key>ExpandedURLs</key>
+		<array>
+			<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/j/plugins/jquery</string>
+			<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/skins/dark/s</string>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
+	<false/>
+	<key>com.macrabbit.Espresso.Workspace.Tabs</key>
+	<dict>
+		<key>Tabs</key>
+		<array>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/full.htm</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/types.htm</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/index.htm</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/skins/dark/s/o-player.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/skins/dark/s/o-player.ie.css</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/pepelsbey/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/OpenPlayer/demo.htm</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+		</array>
+	</dict>
+	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>
+	<false/>
+</dict>
+</plist>

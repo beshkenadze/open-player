@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+	<title>OpenPlayer Demo</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="skins/dark/s/o-player.css">
+	<!--[if IE]><link rel="stylesheet" href="skins/dark/s/o-player.ie.css"><![endif]-->
+	<style type="text/css">
+		BODY {
+			margin:0;
+			padding:50px;
+			background:#444;
+			}
+		.o-player {
+			margin:0 0 25px;
+			}
+	</style>
+</head>
+<body>
+	<video autobuffer controls poster="m/video.jpg" width="848">
+		<source src="m/video.mp4" type="video/mp4">
+		<source src="m/video.ogv" type="video/ogg;codecs=theora,vorbis">
+	</video>
+	<audio autobuffer controls width="848">
+		<source src="m/audio.mp3" type="audio/mp3">
+		<source src="m/audio.ogg" type="audio/ogg;codecs=vorbis">
+	</audio>
+	<script src="j/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="j/plugins/jquery/openplayer.js" type="text/javascript" charset="utf-8"></script>
+	<script src="j/master.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
